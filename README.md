@@ -1,1 +1,1 @@
-# sistemasDistribuidos
+# IntegracionDeSistemasPlataformas
